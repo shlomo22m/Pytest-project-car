@@ -1,0 +1,67 @@
+test pass 23/01/2023 11:07:22
+feul level is good test pass 23/01/2023 11:07:22
+Exception pass 23/01/2023 11:07:22
+km to drive test fail 23/01/2023 11:07:22
+Exception pass 23/01/2023 11:07:22
+car gear at 0 test pass 23/01/2023 11:07:22
+gear test fail 23/01/2023 11:07:22
+IndexError test pass 23/01/2023 11:07:22
+write to test log test pass 23/01/2023 11:07:22
+test pass 23/01/2023 11:10:06
+feul level is good test pass 23/01/2023 11:10:06
+Exception pass 23/01/2023 11:10:06
+test pass 23/01/2023 11:14:47
+feul level is good test pass 23/01/2023 11:14:47
+Exception pass 23/01/2023 11:14:47
+km to drive test fail 23/01/2023 11:14:47
+Exception pass 23/01/2023 11:14:47
+car gear at 0 test pass 23/01/2023 11:14:47
+gear test fail 23/01/2023 11:14:47
+IndexError test pass 23/01/2023 11:14:47
+write to test log test pass 23/01/2023 11:14:47
+gear test fail 23/01/2023 11:32:23
+IndexError test pass 23/01/2023 11:32:23
+gear test pass 23/01/2023 11:32:40
+IndexError test pass 23/01/2023 11:32:40
+test pass 23/01/2023 11:54:18
+feul level is good test pass 23/01/2023 11:54:18
+Exception pass 23/01/2023 11:54:18
+km to drive test fail 23/01/2023 11:54:18
+Exception pass 23/01/2023 11:54:18
+car gear at 0 test pass 23/01/2023 11:54:18
+gear test pass 23/01/2023 11:54:18
+IndexError test pass 23/01/2023 11:54:18
+write to test log test pass 23/01/2023 11:54:18
+test pass 23/01/2023 11:54:27
+feul level is good test pass 23/01/2023 11:54:27
+Exception pass 23/01/2023 11:54:27
+km to drive test fail 23/01/2023 11:54:27
+Exception pass 23/01/2023 11:54:27
+car gear at 0 test pass 23/01/2023 11:54:27
+gear test pass 23/01/2023 11:54:27
+IndexError test pass 23/01/2023 11:54:27
+write to test log test pass 23/01/2023 11:54:27
+car gear at 0 test pass 23/01/2023 11:54:27
+car stop and gear at 0 test pass 23/01/2023 11:54:27
+gear test fail 23/01/2023 11:54:27
+IndexError of gear test pass 23/01/2023 11:54:27
+gear test fail 23/01/2023 11:54:27
+IndexError of gear test pass 23/01/2023 11:54:27
+km to drive test fail 23/01/2023 11:54:27
+Exception pass 23/01/2023 11:54:27
+501 need to be between 10 to 500 23/01/2023 11:54:27
+feul level at max test fail 23/01/2023 11:54:27
+Exception pass 23/01/2023 11:54:27
+write to log test file test pass 23/01/2023 11:54:27
+test pass 23/01/2023 14:52:02
+feul level is good test pass 23/01/2023 14:52:02
+Exception pass 23/01/2023 14:52:02
+km to drive test pass 23/01/2023 14:52:30
+Exception pass 23/01/2023 14:52:30
+km to drive test fail 23/01/2023 14:52:56
+km to drive test fail 23/01/2023 14:53:38
+Exception pass 23/01/2023 14:53:38
+km to drive test fail 23/01/2023 14:54:53
+Exception pass 23/01/2023 14:54:53
+km to drive test fail 23/01/2023 14:56:33
+Exception pass 23/01/2023 14:56:33
